@@ -3,39 +3,39 @@ awardYear,category,name
 1975,Physics,Aage N. Bohr
 2004,Chemistry,Aaron Ciechanover
 1982,Chemistry,Aaron Klug
-1979,Physics,
+1979,Physics,Abdus Salam
 2019,Economic Sciences,Abhijit Banerjee
-2019,Peace,981
+2019,Peace,Abiy Ahmed Ali
 2009,Chemistry,Ada E. Yonath
 2011,Physics,Adam G. Riess
 1939,Chemistry,Adolf Butenandt
-1905,Chemistry,164
+1905,Chemistry,Adolf von Baeyer
 1928,Chemistry,Adolf Windaus
-1980,Peace,541
+1980,Peace,Adolfo Pérez Esquivel
 1999,Chemistry,Ahmed Zewail
 2010,Chemistry,Akira Suzuki
 2019,Chemistry,Akira Yoshino
-2007,Peace,819
+2007,Peace,Al Gore
 2000,Chemistry,Alan Heeger
 1963,Physiology or Medicine,Alan Hodgkin
 2000,Chemistry,Alan MacDiarmid
 1907,Physics,Albert A. Michelson
-1957,Literature,628
+1957,Literature,Albert Camus
 1974,Physiology or Medicine,Albert Claude
-1921,Physics,26
+1921,Physics,Albert Einstein
 2007,Physics,Albert Fert
 1902,Peace,Albert Gobat
 1960,Peace,Albert Luthuli
-1952,Peace,https://masterdataapi.nobelprize.org/2/nobelPrize/pea/1952
-1937,Physiology or Medicine,332
-1910,Physiology or Medicine,304
-1964,Physics,83
+1952,Peace,Albert Schweitzer
+1937,Physiology or Medicine,Albert Szent-Györgyi
+1910,Physiology or Medicine,Albrecht Kossel
+1964,Physics,Aleksandr M. Prokhorov
 1970,Literature,Alexandr Solzhenitsyn
 2003,Physics,Alexei Abrikosov
 1912,Physiology or Medicine,Alexis Carrel
 1982,Peace,Alfonso García Robles
 1969,Physiology or Medicine,Alfred D. Hershey
-1911,Peace,https://masterdataapi.nobelprize.org/2/nobelPrize/pea/1911
+1911,Peace,Alfred Fried
 1994,Physiology or Medicine,Alfred G. Gilman
 1966,Physics,Alfred Kastler
 1913,Chemistry,Alfred Werner
@@ -46,35 +46,35 @@ awardYear,category,name
 1982,Peace,Alva Myrdal
 2012,Economic Sciences,Alvin E. Roth
 1998,Economic Sciences,Amartya Sen
-1947,Peace,509
+1947,Peace,American Friends Service Committee
 1977,Peace,Amnesty International
-1921,Literature, and a true Gallic temperament"
+1921,Literature,Anatole France
 1956,Physiology or Medicine,André F. Cournand
 2010,Physics,Andre Geim
-1947,Literature,618
+1947,Literature,André Gide
 1965,Physiology or Medicine,André Lwoff
-1975,Peace,534
+1975,Peace,Andrei Sakharov
 1963,Physiology or Medicine,Andrew Huxley
 1977,Physiology or Medicine,Andrew V. Schally
 2006,Physiology or Medicine,Andrew Z. Fire
-2015,Economic Sciences,https://masterdataapi.nobelprize.org/2/nobelPrize/eco/2015
+2015,Economic Sciences,Angus Deaton
 2003,Physics,Anthony J. Leggett
-1974,Physics,https://masterdataapi.nobelprize.org/2/nobelPrize/phy/1974
+1974,Physics,Antony Hewish
 1978,Peace,Anwar al-Sadat
 1952,Chemistry,Archer J.P. Martin
 1922,Physiology or Medicine,Archibald V. Hill
 2013,Chemistry,Arieh Warshel
 1926,Peace,Aristide Briand
-1948,Chemistry,208
+1948,Chemistry,Arne Tiselius
 1978,Physics,Arno Penzias
 2018,Physics,Arthur Ashkin
-2015,Physics,920
+2015,Physics,Arthur B. McDonald
 1927,Physics,Arthur H. Compton
 1929,Chemistry,Arthur Harden
 1934,Peace,Arthur Henderson
 1959,Physiology or Medicine,Arthur Kornberg
 1981,Physics,Arthur L. Schawlow
-1945,Chemistry,203
+1945,Chemistry,Artturi Virtanen
 2000,Physiology or Medicine,Arvid Carlsson
 1920,Physiology or Medicine,August Krogh
 1909,Peace,Auguste Beernaert
@@ -99,10 +99,10 @@ awardYear,category,name
 1994,Physics,Bertram N. Brockhouse
 1950,Literature,Bertrand Russell
 1976,Peace,Betty Williams
-1903,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1903
+1903,Literature,Bjørnstjerne Bjørnson
 2016,Literature,Bob Dylan
 1958,Literature,Boris Pasternak
-1973,Physics,99
+1973,Physics,Brian D. Josephson
 2012,Chemistry,Brian Kobilka
 2011,Physics,Brian P. Schmidt
 2011,Physiology or Medicine,Bruce A. Beutler
@@ -110,16 +110,16 @@ awardYear,category,name
 1976,Physics,Burton Richter
 1927,Physics,C.T.R. Wilson
 1906,Physiology or Medicine,Camillo Golgi
-1989,Literature,666
+1989,Literature,Camilo José Cela
 1931,Chemistry,Carl Bosch
 1947,Physiology or Medicine,Carl Cori
 1936,Physics,Carl D. Anderson
-1919,Literature,588
+1919,Literature,Carl Spitteler
 1935,Peace,Carl von Ossietzky
-2001,Physics,740
-1984,Physics,https://masterdataapi.nobelprize.org/2/nobelPrize/phy/1984
+2001,Physics,Carl Wieman
+1984,Physics,Carlo Rubbia
 1996,Peace,Carlos Filipe Ximenes Belo
-1936,Peace,501
+1936,Peace,Carlos Saavedra Lamas
 2009,Physiology or Medicine,Carol W. Greider
 1950,Physics,Cecil Powell
 1984,Physiology or Medicine,César Milstein
@@ -127,14 +127,14 @@ awardYear,category,name
 1920,Physics,Charles Edouard Guillaume
 1925,Peace,Charles G. Dawes
 1917,Physics,Charles Glover Barkla
-1964,Physics,81
+1964,Physics,Charles H. Townes
 1987,Chemistry,Charles J. Pedersen
 2009,Physics,Charles K. Kao
 1928,Physiology or Medicine,Charles Nicolle
 1913,Physiology or Medicine,Charles Richet
 1957,Physics,Chen Ning Yang
 1929,Physiology or Medicine,Christiaan Eijkman
-1972,Chemistry,241
+1972,Chemistry,Christian Anfinsen
 1974,Physiology or Medicine,Christian de Duve
 1921,Peace,Christian Lange
 1995,Physiology or Medicine,Christiane Nüsslein-Volhard
@@ -150,12 +150,12 @@ awardYear,category,name
 2006,Physiology or Medicine,Craig C. Mello
 1980,Literature,Czeslaw Milosz
 1976,Physiology or Medicine,D. Carleton Gajdusek
-1961,Peace,520
+1961,Peace,Dag Hammarskjöld
 2010,Economic Sciences,Dale T. Mortensen
 2011,Chemistry,Dan Shechtman
-1957,Physiology or Medicine,363
+1957,Physiology or Medicine,Daniel Bovet
 1998,Physics,Daniel C. Tsui
-2002,Economic Sciences,759
+2002,Economic Sciences,Daniel Kahneman
 2000,Economic Sciences,Daniel L. McFadden
 1978,Physiology or Medicine,Daniel Nathans
 1997,Literature,Dario Fo
@@ -169,21 +169,21 @@ awardYear,category,name
 2018,Peace,Denis Mukwege
 1971,Physics,Dennis Gabor
 1969,Chemistry,Derek Barton
-1992,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1992
+1992,Literature,Derek Walcott
 1984,Peace,Desmond Tutu
 1956,Physiology or Medicine,Dickinson W. Richards
 2019,Physics,Didier Queloz
 1960,Physics,Donald A. Glaser
 1987,Chemistry,Donald J. Cram
-2018,Physics,962
-2007,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/2007
+2018,Physics,Donna Strickland
+2007,Literature,Doris Lessing
 1964,Chemistry,Dorothy Crowfoot Hodgkin
 1996,Physics,Douglas D. Osheroff
 1993,Economic Sciences,Douglass C. North
 1986,Chemistry,Dudley R. Herschbach
 1990,Physiology or Medicine,E. Donnall Thomas
 1952,Physics,E. M. Purcell
-1971,Physiology or Medicine,"Earl W. Sutherland
+1971,Physiology or Medicine,"Earl W. Sutherland, Jr."
 1932,Physiology or Medicine,Edgar Adrian
 1992,Physiology or Medicine,Edmond H. Fischer
 2006,Economic Sciences,Edmund S. Phelps
@@ -191,7 +191,7 @@ awardYear,category,name
 2014,Physiology or Medicine,Edvard I. Moser
 1943,Physiology or Medicine,Edward A. Doisy
 1995,Physiology or Medicine,Edward B. Lewis
-1950,Physiology or Medicine,349
+1950,Physiology or Medicine,Edward C. Kendall
 2004,Economic Sciences,Edward C. Prescott
 1958,Physiology or Medicine,Edward Tatum
 1947,Physics,Edward V. Appleton
@@ -201,45 +201,45 @@ awardYear,category,name
 2010,Chemistry,Ei-ichi Negishi
 1974,Peace,Eisaku Sato
 2004,Literature,Elfriede Jelinek
-1981,Literature,658
+1981,Literature,Elias Canetti
 1990,Chemistry,Elias James Corey
 1902,Peace,Élie Ducommun
-1986,Peace,548
+1986,Peace,Elie Wiesel
 1912,Peace,Elihu Root
-2009,Economic Sciences,846
+2009,Economic Sciences,Elinor Ostrom
 2009,Physiology or Medicine,Elizabeth H. Blackburn
 2011,Peace,Ellen Johnson Sirleaf
 1902,Chemistry,Emil Fischer
-1901,Physiology or Medicine,https://masterdataapi.nobelprize.org/2/nobelPrize/med/1901
+1901,Physiology or Medicine,Emil von Behring
 1959,Physics,Emilio Segrè
 1946,Peace,Emily Greene Balch
-1938,Physics,46
+1938,Physics,Enrico Fermi
 2014,Chemistry,Eric Betzig
-2001,Physics,738
+2001,Physics,Eric Cornell
 1995,Physiology or Medicine,Eric F. Wieschaus
 2000,Physiology or Medicine,Eric Kandel
 2007,Economic Sciences,Eric S. Maskin
 1931,Literature,Erik Axel Karlfeldt
-1954,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1954
-1939,Physics,47
-1908,Chemistry,167
+1954,Literature,Ernest Hemingway
+1939,Physics,Ernest Lawrence
+1908,Chemistry,Ernest Rutherford
 1951,Physics,Ernest T.S. Walton
-1907,Peace,https://masterdataapi.nobelprize.org/2/nobelPrize/pea/1907
+1907,Peace,Ernesto Teodoro Moneta
 1945,Physiology or Medicine,Ernst B. Chain
-1973,Chemistry,
-1986,Physics,127
+1973,Chemistry,Ernst Otto Fischer
+1986,Physics,Ernst Ruska
 1991,Physiology or Medicine,Erwin Neher
 1933,Physics,Erwin Schrödinger
 2019,Economic Sciences,Esther Duflo
 2013,Economic Sciences,Eugene F. Fama
-1936,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1936
-1963,Physics,78
-1975,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1975
-2012,Peace,881
-1974,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1974
+1936,Literature,Eugene O'Neill
+1963,Physics,Eugene Wigner
+1975,Literature,Eugenio Montale
+2012,Peace,European Union (EU)
+1974,Literature,Eyvind Johnson
 2016,Physics,F. Duncan M. Haldane
-1995,Chemistry,283
-1993,Peace,556
+1995,Chemistry,F. Sherwood Rowland
+1993,Peace,F.W. de Klerk
 1952,Physics,Felix Bloch
 1964,Physiology or Medicine,Feodor Lynen
 1909,Physics,Ferdinand Braun
@@ -248,9 +248,9 @@ awardYear,category,name
 2004,Economic Sciences,Finn E. Kydland
 2018,Chemistry,Frances H. Arnold
 1962,Physiology or Medicine,Francis Crick
-1922,Chemistry, and for his enunciation of the whole-number rule"
+1922,Chemistry,Francis W. Aston
 1985,Economic Sciences,Franco Modigliani
-2013,Physics,https://masterdataapi.nobelprize.org/2/nobelPrize/phy/2013
+2013,Physics,François Englert
 1965,Physiology or Medicine,François Jacob
 1952,Literature,François Mauriac
 2008,Physiology or Medicine,Françoise Barré-Sinoussi
@@ -258,34 +258,34 @@ awardYear,category,name
 2004,Physics,Frank Wilczek
 1939,Literature,Frans Eemil Sillanpää
 1935,Chemistry,Frédéric Joliot
-1904,Literature, his significant work as a Proven&ccedil;al philologist"
-1901,Peace,463
+1904,Literature,Frédéric Mistral
+1901,Peace,Frédéric Passy
 1954,Physiology or Medicine,Frederick C. Robbins
 1923,Physiology or Medicine,Frederick G. Banting
 1995,Physics,Frederick Reines
-1958,Chemistry,222
-1921,Chemistry,179
-1908,Peace,https://masterdataapi.nobelprize.org/2/nobelPrize/pea/1908
-1922,Peace,487
+1958,Chemistry,Frederick Sanger
+1921,Chemistry,Frederick Soddy
+1908,Peace,Fredrik Bajer
+1922,Peace,Fridtjof Nansen
 1931,Chemistry,Friedrich Bergius
-1974,Economic Sciences,685
-1947,Peace,508
-1953,Physics,60
+1974,Economic Sciences,Friedrich von Hayek
+1947,Peace,Friends Service Council
+1953,Physics,Frits Zernike
 1918,Chemistry,Fritz Haber
 1953,Physiology or Medicine,Fritz Lipmann
 1923,Chemistry,Fritz Pregl
-1982,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1982
+1982,Literature,Gabriel García Márquez
 1908,Physics,Gabriel Lippmann
-1945,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1945
-2000,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/2000
-1992,Economic Sciences,708
-1973,Chemistry,
+1945,Literature,Gabriela Mistral
+2000,Literature,Gao Xingjian
+1992,Economic Sciences,Gary Becker
+1973,Chemistry,Geoffrey Wilkinson
 1961,Physiology or Medicine,Georg von Békésy
-1979,Chemistry,https://masterdataapi.nobelprize.org/2/nobelPrize/che/1979
+1979,Chemistry,Georg Wittig
 2001,Economic Sciences,George A. Akerlof
 1994,Chemistry,George A. Olah
 1958,Physiology or Medicine,George Beadle
-1925,Literature,596
+1925,Literature,George Bernard Shaw
 1953,Peace,George C. Marshall
 1980,Physiology or Medicine,George D. Snell
 1943,Chemistry,George de Hevesy
@@ -294,28 +294,28 @@ awardYear,category,name
 2006,Physics,George F. Smoot
 1988,Physiology or Medicine,George H. Hitchings
 1934,Physiology or Medicine,George H. Whipple
-1982,Economic Sciences,696
+1982,Economic Sciences,George J. Stigler
 2018,Chemistry,George P. Smith
 1937,Physics,George Paget Thomson
-1967,Chemistry,235
+1967,Chemistry,George Porter
 1934,Physiology or Medicine,George R. Minot
 1967,Physiology or Medicine,George Wald
-1992,Physics,142
+1992,Physics,Georges Charpak
 1984,Physiology or Medicine,Georges J.F. Köhler
 1958,Peace,Georges Pire
 1972,Physiology or Medicine,Gerald M. Edelman
 1983,Economic Sciences,Gerard Debreu
-2018,Physics,961
+2018,Physics,Gérard Mourou
 1999,Physics,Gerardus 't Hooft
 1986,Physics,Gerd Binnig
 1939,Physiology or Medicine,Gerhard Domagk
 2007,Chemistry,Gerhard Ertl
-1971,Chemistry,240
-1912,Literature,582
+1971,Chemistry,Gerhard Herzberg
+1912,Literature,Gerhart Hauptmann
 1988,Physiology or Medicine,Gertrude B. Elion
 1947,Physiology or Medicine,Gerty Cori
-1963,Literature,635
-1906,Literature,
+1963,Literature,Giorgos Seferis
+1906,Literature,Giosuè Carducci
 1963,Chemistry,Giulio Natta
 1951,Chemistry,Glenn T. Seaborg
 1979,Physiology or Medicine,Godfrey N. Hounsfield
@@ -323,7 +323,7 @@ awardYear,category,name
 1926,Literature,Grazia Deledda
 2019,Physiology or Medicine,Gregg L. Semenza
 1909,Physics,Guglielmo Marconi
-1974,Economic Sciences,684
+1974,Economic Sciences,Gunnar Myrdal
 1999,Physiology or Medicine,Günter Blobel
 1999,Literature,Günter Grass
 1912,Physics,Gustaf Dalén
@@ -335,7 +335,7 @@ awardYear,category,name
 1955,Literature,Halldór Laxness
 1978,Physiology or Medicine,Hamilton O. Smith
 1970,Physics,Hannes Alfvén
-1967,Physics,88
+1967,Physics,Hans Bethe
 1930,Chemistry,Hans Fischer
 1989,Physics,Hans G. Dehmelt
 1953,Physiology or Medicine,Hans Krebs
@@ -348,7 +348,7 @@ awardYear,category,name
 1990,Economic Sciences,Harry M. Markowitz
 1974,Literature,Harry Martinson
 1988,Chemistry,Hartmut Michel
-1913,Physics,https://masterdataapi.nobelprize.org/2/nobelPrize/phy/1913
+1913,Physics,Heike Kamerlingh Onnes
 1972,Literature,Heinrich Böll
 1986,Physics,Heinrich Rohrer
 1927,Chemistry,Heinrich Wieland
@@ -356,23 +356,23 @@ awardYear,category,name
 1903,Physics,Henri Becquerel
 1927,Literature,Henri Bergson
 1913,Peace,Henri La Fontaine
-1906,Chemistry,165
+1906,Chemistry,Henri Moissan
 1943,Physiology or Medicine,Henrik Dam
 1917,Literature,Henrik Pontoppidan
 1901,Peace,Henry Dunant
 1973,Peace,Henry Kissinger
-1983,Chemistry,260
-1990,Physics,139
+1983,Chemistry,Henry Taube
+1990,Physics,Henry W. Kendall
 1905,Literature,Henryk Sienkiewicz
 1985,Chemistry,Herbert A. Hauptman
-1979,Chemistry,https://masterdataapi.nobelprize.org/2/nobelPrize/che/1979
+1979,Chemistry,Herbert C. Brown
 2000,Physics,Herbert Kroemer
 1944,Physiology or Medicine,Herbert S. Gasser
 1978,Economic Sciences,Herbert Simon
-1946,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1946
+1946,Literature,Hermann Hesse
 1946,Physiology or Medicine,Hermann J. Muller
 1953,Chemistry,Hermann Staudinger
-2009,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/2009
+2009,Literature,Herta Müller
 2000,Chemistry,Hideki Shirakawa
 1949,Physics,Hideki Yukawa
 2014,Physics,Hiroshi Amano
@@ -383,10 +383,10 @@ awardYear,category,name
 1958,Physics,Igor Y. Tamm
 1958,Physics,Il´ja M. Frank
 1908,Physiology or Medicine,Ilya Mechnikov
-1977,Chemistry,250
+1977,Chemistry,Ilya Prigogine
 2002,Literature,Imre Kertész
 1904,Peace,Institute of International Law
-2007,Peace,818
+2007,Peace,Intergovernmental Panel on Climate Change
 2005,Peace,International Atomic Energy Agency
 2017,Peace,International Campaign to Abolish Nuclear Weapons (ICAN)
 1997,Peace,International Campaign to Ban Landmines
@@ -396,12 +396,12 @@ awardYear,category,name
 1935,Chemistry,Irène Joliot-Curie
 1932,Chemistry,Irving Langmuir
 2004,Chemistry,Irwin Rose
-1978,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1978
+1978,Literature,Isaac Bashevis Singer
 2014,Physics,Isamu Akasaki
 1944,Physics,Isidor Isaac Rabi
 1933,Literature,Ivan Bunin
-1904,Physiology or Medicine,296
-1973,Physics,98
+1904,Physiology or Medicine,Ivan Pavlov
+1973,Physics,Ivar Giaever
 1961,Literature,Ivo Andric
 1987,Physics,J. Georg Bednorz
 1963,Physics,J. Hans D. Jensen
@@ -422,38 +422,38 @@ awardYear,category,name
 1935,Physics,James Chadwick
 1980,Physics,James Cronin
 1977,Economic Sciences,James E. Meade
-2013,Physiology or Medicine,884
+2013,Physiology or Medicine,James E. Rothman
 1925,Physics,James Franck
 2000,Economic Sciences,James J. Heckman
 1986,Economic Sciences,James M. Buchanan Jr.
 2018,Physiology or Medicine,James P. Allison
 2019,Physics,James Peebles
 1975,Physics,James Rainwater
-1981,Economic Sciences,https://masterdataapi.nobelprize.org/2/nobelPrize/eco/1981
+1981,Economic Sciences,James Tobin
 1962,Physiology or Medicine,James Watson
 1969,Economic Sciences,Jan Tinbergen
 1931,Peace,Jane Addams
 1959,Chemistry,Jaroslav Heyrovsky
-1984,Literature,661
-1926,Physics,32
+1984,Literature,Jaroslav Seifert
+1926,Physics,Jean Baptiste Perrin
 1980,Physiology or Medicine,Jean Dausset
 2014,Economic Sciences,Jean Tirole
-2008,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/2008
+2008,Literature,Jean-Marie Gustave Le Clézio
 1987,Chemistry,Jean-Marie Lehn
-1964,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1964
+1964,Literature,Jean-Paul Sartre
 2016,Chemistry,Jean-Pierre Sauvage
 2017,Physiology or Medicine,Jeffrey C. Hall
-1997,Chemistry,https://masterdataapi.nobelprize.org/2/nobelPrize/che/1997
-1990,Physics,138
+1997,Chemistry,Jens C. Skou
+1990,Physics,Jerome I. Friedman
 1985,Chemistry,Jerome Karle
-2002,Peace,https://masterdataapi.nobelprize.org/2/nobelPrize/pea/2002
+2002,Peace,Jimmy Carter
 2017,Chemistry,Joachim Frank
 1997,Peace,Jody Williams
 1988,Chemistry,Johann Deisenhofer
 1910,Physics,Johannes Diderik van der Waals
 1926,Physiology or Medicine,Johannes Fibiger
 1919,Physics,Johannes Stark
-1944,Literature,614
+1944,Literature,Johannes V. Jensen
 2002,Chemistry,John B. Fenn
 2019,Chemistry,John B. Goodenough
 1956,Physics,John Bardeen
@@ -471,51 +471,51 @@ awardYear,category,name
 1946,Chemistry,John H. Northrop
 1977,Physics,John H. van Vleck
 1998,Peace,John Hume
-2005,Physics,792
+2005,Physics,John L. Hall
 1923,Physiology or Medicine,John Macleod
 2014,Physiology or Medicine,John O'Keefe
 1998,Chemistry,John Pople
 1972,Economic Sciences,John R. Hicks
 1946,Peace,John R. Mott
 1982,Physiology or Medicine,John R. Vane
-1962,Literature,634
-1904,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1904
+1962,Literature,John Steinbeck
+1904,Literature,José Echegaray
 1996,Peace,José Ramos-Horta
-1998,Literature,675
-1987,Literature,664
+1998,Literature,José Saramago
+1987,Literature,Joseph Brodsky
 1990,Physiology or Medicine,Joseph E. Murray
 2001,Economic Sciences,Joseph E. Stiglitz
 1944,Physiology or Medicine,Joseph Erlanger
-1993,Physics,144
+1993,Physics,Joseph H. Taylor Jr.
 1985,Physiology or Medicine,Joseph L. Goldstein
-1995,Peace,https://masterdataapi.nobelprize.org/2/nobelPrize/pea/1995
+1995,Peace,Joseph Rotblat
 1958,Physiology or Medicine,Joshua Lederberg
 2016,Peace,Juan Manuel Santos
-1956,Literature,627
+1956,Literature,Juan Ramón Jiménez
 2011,Physiology or Medicine,Jules A. Hoffmann
 1919,Physiology or Medicine,Jules Bordet
-1965,Physics,85
-1970,Physiology or Medicine,396
+1965,Physics,Julian Schwinger
+1970,Physiology or Medicine,Julius Axelrod
 1927,Physiology or Medicine,Julius Wagner-Jauregg
 1987,Physics,K. Alex Müller
 1981,Physics,Kai M. Siegbahn
 2014,Peace,Kailash Satyarthi
-1917,Literature,586
+1917,Literature,Karl Gjellerup
 1930,Physiology or Medicine,Karl Landsteiner
 1973,Physiology or Medicine,Karl von Frisch
 1963,Chemistry,Karl Ziegler
 1993,Chemistry,Kary B. Mullis
-2017,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/2017
+2017,Literature,Kazuo Ishiguro
 1967,Physiology or Medicine,Keffer Hartline
-1981,Chemistry,https://masterdataapi.nobelprize.org/2/nobelPrize/che/1981
+1981,Chemistry,Kenichi Fukui
 1982,Physics,Kenneth G. Wilson
 1972,Economic Sciences,Kenneth J. Arrow
-1994,Literature,671
-2000,Peace,725
+1994,Literature,Kenzaburo Oe
+2000,Peace,Kim Dae-jung
 2017,Physics,Kip S. Thorne
-1908,Peace,https://masterdataapi.nobelprize.org/2/nobelPrize/pea/1908
+1908,Peace,Klas Pontus Arnoldson
 1985,Physics,Klaus von Klitzing
-1920,Literature,589
+1920,Literature,Knut Hamsun
 2001,Peace,Kofi Annan
 2002,Chemistry,Koichi Tanaka
 1964,Physiology or Medicine,Konrad Bloch
@@ -523,7 +523,7 @@ awardYear,category,name
 2010,Physics,Konstantin Novoselov
 1950,Chemistry,Kurt Alder
 2002,Chemistry,Kurt Wüthrich
-1968,Chemistry,236
+1968,Chemistry,Lars Onsager
 2013,Economic Sciences,Lars Peter Hansen
 1915,Physics,Lawrence Bragg
 1980,Economic Sciences,Lawrence R. Klein
@@ -531,22 +531,22 @@ awardYear,category,name
 1963,Peace,League of Red Cross Societies
 1983,Peace,Lech Walesa
 2001,Physiology or Medicine,Leland Hartwell
-1973,Physics,97
+1973,Physics,Leo Esaki
 1920,Peace,Léon Bourgeois
 1951,Peace,Léon Jouhaux
 1988,Physics,Leon M. Lederman
-1972,Physics,95
+1972,Physics,Leon N. Cooper
 2007,Economic Sciences,Leonid Hurwicz
 1975,Economic Sciences,Leonid Vitaliyevich Kantorovich
 1939,Chemistry,Leopold Ruzicka
 1957,Peace,Lester Bowles Pearson
-1962,Physics,77
+1962,Physics,Lev Landau
 2011,Peace,Leymah Gbowee
 2004,Physiology or Medicine,Linda B. Buck
 1962,Peace,Linus Pauling
 2010,Peace,Liu Xiaobo
 2012,Economic Sciences,Lloyd S. Shapley
-1949,Peace,510
+1949,Peace,Lord Boyd Orr
 1904,Physics,Lord Rayleigh
 1957,Chemistry,Lord Todd
 1929,Physics,Louis de Broglie
@@ -556,33 +556,33 @@ awardYear,category,name
 2008,Physiology or Medicine,Luc Montagnier
 1927,Peace,Ludwig Quidde
 1934,Literature,Luigi Pirandello
-1968,Physics,https://masterdataapi.nobelprize.org/2/nobelPrize/phy/1968
+1968,Physics,Luis Alvarez
 1970,Chemistry,Luis Leloir
 2019,Chemistry,M. Stanley Whittingham
 1976,Peace,Mairead Corrigan
 2008,Physics,Makoto Kobayashi
 2014,Peace,Malala Yousafzai
-1967,Chemistry,233
+1967,Chemistry,Manfred Eigen
 1924,Physics,Manne Siegbahn
 1963,Physics,Maria Goeppert Mayer
 1903,Physics,Marie Curie
-1995,Chemistry,282
+1995,Chemistry,Mario J. Molina
 2007,Physiology or Medicine,Mario R. Capecchi
-2010,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/2010
+2010,Literature,Mario Vargas Llosa
 1968,Physiology or Medicine,Marshall W. Nirenberg
-2008,Chemistry,830
+2008,Chemistry,Martin Chalfie
 2013,Chemistry,Martin Karplus
 1995,Physics,Martin L. Perl
 1964,Peace,Martin Luther King Jr.
 1994,Physiology or Medicine,Martin Rodbell
-1974,Physics,https://masterdataapi.nobelprize.org/2/nobelPrize/phy/1974
+1974,Physics,Martin Ryle
 1999,Physics,Martinus J.G. Veltman
-2008,Peace,https://masterdataapi.nobelprize.org/2/nobelPrize/pea/2008
-2002,Physics,754
+2008,Peace,Martti Ahtisaari
+2002,Physics,Masatoshi Koshiba
 1988,Economic Sciences,Maurice Allais
-1911,Literature, sometimes in the guise of a fairy tale
+1911,Literature,Maurice Maeterlinck
 1962,Physiology or Medicine,Maurice Wilkins
-1954,Physics,61
+1954,Physics,Max Born
 1969,Physiology or Medicine,Max Delbrück
 1962,Chemistry,Max F. Perutz
 1918,Physics,Max Planck
@@ -598,14 +598,14 @@ awardYear,category,name
 2013,Chemistry,Michael Levitt
 2017,Physiology or Medicine,Michael Rosbash
 1985,Physiology or Medicine,Michael S. Brown
-1993,Chemistry,279
+1993,Chemistry,Michael Smith
 2017,Physiology or Medicine,Michael W. Young
 2019,Physics,Michel Mayor
-1967,Literature,641
+1967,Literature,Miguel Angel Asturias
 1990,Peace,Mikhail Gorbachev
-1965,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1965
-1976,Economic Sciences,688
-2012,Literature,880
+1965,Literature,Mikhail Sholokhov
+1976,Economic Sciences,Milton Friedman
+2012,Literature,Mo Yan
 2005,Peace,Mohamed ElBaradei
 1979,Peace,Mother Teresa 
 2006,Peace,Muhammad Yunus
@@ -613,34 +613,34 @@ awardYear,category,name
 1997,Economic Sciences,Myron Scholes
 2018,Peace,Nadia Murad
 1991,Literature,Nadine Gordimer
-1988,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1988
+1988,Literature,Naguib Mahfouz
 1938,Peace,Nansen International Office for Refugees
 1930,Peace,Nathan Söderblom
 2015,Peace,National Dialogue Quartet 
-1966,Literature,640
-1993,Peace,555
+1966,Literature,Nelly Sachs
+1993,Peace,Nelson Mandela
 1931,Peace,Nicholas Murray Butler
 1981,Physics,Nicolaas Bloembergen
-1964,Physics,82
+1964,Physics,Nicolay G. Basov
 1922,Physics,Niels Bohr
 1984,Physiology or Medicine,Niels K. Jerne
-1903,Physiology or Medicine,
+1903,Physiology or Medicine,Niels Ryberg Finsen
 1973,Physiology or Medicine,Nikolaas Tinbergen
 1956,Chemistry,Nikolay Semenov
 1970,Peace,Norman Borlaug
 1989,Physics,Norman F. Ramsey
 1937,Chemistry,Norman Haworth
-1990,Literature,667
+1990,Literature,Octavio Paz
 1969,Chemistry,Odd Hassel
-1979,Literature,
+1979,Literature,Odysseus Elytis
 1954,Peace,Office of the United Nations High Commissioner for Refugees
 2018,Literature,Olga Tokarczuk
-2009,Economic Sciences,847
+2009,Economic Sciences,Oliver E. Williamson
 2016,Economic Sciences,Oliver Hart
 2007,Physiology or Medicine,Oliver Smithies
 2013,Peace,Organisation for the Prohibition of Chemical Weapons
 2006,Literature,Orhan Pamuk
-2008,Chemistry,829
+2008,Chemistry,Osamu Shimomura
 1987,Peace,Oscar Arias Sánchez
 1950,Chemistry,Otto Diels
 1944,Chemistry,Otto Hahn
@@ -653,22 +653,21 @@ awardYear,category,name
 1928,Physics,Owen Willans Richardson
 1971,Literature,Pablo Neruda
 1951,Literature,Pär Lagerkvist
-1948,Physics,53
-2014,Literature
-uncovered the life-world of the occupation",,Paris
+1948,Physics,Patrick M.S. Blackett
+2014,Literature,Patrick Modiano
 1973,Literature,Patrick White
 1970,Economic Sciences,Paul A. Samuelson
 1933,Physics,Paul A.M. Dirac
-1980,Chemistry,254
+1980,Chemistry,Paul Berg
 2003,Physiology or Medicine,Paul C. Lauterbur
 1997,Chemistry,Paul D. Boyer
 1908,Physiology or Medicine,Paul Ehrlich
 2000,Physiology or Medicine,Paul Greengard
 1909,Peace,Paul Henri d'Estournelles de Constant
-1910,Literature, novelist and writer of world-renowned short stories"
-1995,Chemistry,281
-1974,Chemistry,https://masterdataapi.nobelprize.org/2/nobelPrize/che/1974
-1937,Chemistry,197
+1910,Literature,Paul Heyse
+1995,Chemistry,Paul J. Crutzen
+1974,Chemistry,Paul J. Flory
+1937,Chemistry,Paul Karrer
 2008,Economic Sciences,Paul Krugman
 2018,Economic Sciences,Paul M. Romer
 2015,Chemistry,Paul Modrich
@@ -676,68 +675,68 @@ uncovered the life-world of the occupation",,Paris
 1912,Chemistry,Paul Sabatier
 1958,Physics,Pavel A. Cherenkov
 1938,Literature,Pearl Buck
-1946,Physics,51
-1910,Peace,477
+1946,Physics,Percy W. Bridgman
+1910,Peace,Permanent International Peace Bureau
 2010,Economic Sciences,Peter A. Diamond
 2003,Chemistry,Peter Agre
 1996,Physiology or Medicine,Peter C. Doherty
 1936,Chemistry,Peter Debye
 2007,Physics,Peter Grünberg
 2019,Literature,Peter Handke
-2013,Physics,https://masterdataapi.nobelprize.org/2/nobelPrize/phy/2013
+2013,Physics,Peter Higgs
 1960,Physiology or Medicine,Peter Medawar
 1978,Chemistry,Peter Mitchell
 1966,Physiology or Medicine,Peyton Rous
 1959,Peace,Philip Noel-Baker
-1950,Physiology or Medicine,351
+1950,Physiology or Medicine,Philip S. Hench
 1977,Physics,Philip W. Anderson
 1905,Physics,Philipp Lenard
 1993,Physiology or Medicine,Phillip A. Sharp
 1903,Physics,Pierre Curie
-1991,Physics,141
+1991,Physics,Pierre-Gilles de Gennes
 1902,Physics,Pieter Zeeman
 1955,Physics,Polykarp Kusch
-1995,Peace,https://masterdataapi.nobelprize.org/2/nobelPrize/pea/1995
+1995,Peace,Pugwash Conferences on Science and World Affairs
 1978,Physics,Pyotr Kapitsa
-1913,Literature, he has made his poetic thought
+1913,Literature,Rabindranath Tagore
 1969,Economic Sciences,Ragnar Frisch
 1967,Physiology or Medicine,Ragnar Granit
 2017,Physics,Rainer Weiss
 1950,Peace,Ralph Bunche
 2011,Physiology or Medicine,Ralph M. Steinman
 1903,Peace,Randal Cremer
-2013,Physiology or Medicine,885
-2002,Physics,753
+2013,Physiology or Medicine,Randy W. Schekman
+2002,Physics,Raymond Davis Jr.
 1994,Economic Sciences,Reinhard Selten
 1975,Physiology or Medicine,Renato Dulbecco
 1968,Peace,René Cassin
-2002,Physics,755
+2002,Physics,Riccardo Giacconi
 2004,Physiology or Medicine,Richard Axel
 1996,Chemistry,Richard E. Smalley
-1990,Physics,140
+1990,Physics,Richard E. Taylor
 2010,Chemistry,Richard F. Heck
 2017,Economic Sciences,Richard H. Thaler
 2017,Chemistry,Richard Henderson
 1993,Physiology or Medicine,Richard J. Roberts
 1938,Chemistry,Richard Kuhn
 1952,Chemistry,Richard L.M. Synge
-1965,Physics,86
+1965,Physics,Richard P. Feynman
 1991,Chemistry,Richard R. Ernst
 2005,Chemistry,Richard R. Schrock
 1984,Economic Sciences,Richard Stone
-1915,Chemistry,176
-1925,Chemistry,182
+1915,Chemistry,Richard Willstätter
+1925,Chemistry,Richard Zsigmondy
 1992,Peace,Rigoberta Menchú Tum
 1986,Physiology or Medicine,Rita Levi-Montalcini
-1981,Chemistry,https://masterdataapi.nobelprize.org/2/nobelPrize/che/1981
+1981,Chemistry,Roald Hoffmann
 1923,Physics,Robert A. Millikan
 1998,Physics,Robert B. Laughlin
 1965,Chemistry,Robert B. Woodward
 1914,Physiology or Medicine,Robert Bárány
 1997,Economic Sciences,Robert C. Merton
 1996,Physics,Robert C. Richardson
-1937,Peace,502
-1995,Economic Sciences,714
+1937,Peace,"Robert Cecil, Viscount Cecil of Chelwood"
+1995,Economic Sciences,Robert E. Lucas Jr.
 1996,Chemistry,Robert F. Curl Jr.
 2003,Economic Sciences,Robert F. Engle III
 1998,Physiology or Medicine,Robert F. Furchgott
@@ -752,7 +751,7 @@ uncovered the life-world of the occupation",,Paris
 1987,Economic Sciences,Robert M. Solow
 1999,Economic Sciences,Robert Mundell
 1966,Chemistry,Robert S. Mulliken
-1972,Physics,96
+1972,Physics,Robert Schrieffer
 1993,Economic Sciences,Robert W. Fogel
 1968,Physiology or Medicine,Robert W. Holley
 1978,Physics,Robert Woodrow Wilson
@@ -763,36 +762,36 @@ uncovered the life-world of the occupation",,Paris
 1977,Physiology or Medicine,Roger Guillemin
 1937,Literature,Roger Martin du Gard
 1981,Physiology or Medicine,Roger W. Sperry
-2008,Chemistry,831
+2008,Chemistry,Roger Y. Tsien
 1996,Physiology or Medicine,Rolf M. Zinkernagel
 1915,Literature,Romain Rolland
-1967,Chemistry,234
+1967,Chemistry,Ronald G.W. Norrish
 1991,Economic Sciences,Ronald H. Coase
-1902,Physiology or Medicine,294
+1902,Physiology or Medicine,Ronald Ross
 1977,Physiology or Medicine,Rosalyn Yalow
 2005,Physics,Roy J. Glauber
-1908,Literature,
+1908,Literature,Rudolf Eucken
 1961,Physics,Rudolf Mössbauer
 1992,Chemistry,Rudolph A. Marcus
-1907,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1907
-1993,Physics,143
+1907,Literature,Rudyard Kipling
+1993,Physics,Russell A. Hulse
 2001,Chemistry,Ryoji Noyori
 1960,Literature,Saint-John Perse
 1969,Physiology or Medicine,Salvador E. Luria
-1959,Literature,630
-1969,Literature,643
+1959,Literature,Salvatore Quasimodo
+1969,Literature,Samuel Beckett
 1976,Physics,Samuel C.C. Ting
 1906,Physiology or Medicine,Santiago Ramón y Cajal
 2015,Physiology or Medicine,Satoshi &#332;mura
 1976,Literature,Saul Bellow
 2011,Physics,Saul Perlmutter
-1995,Literature,672
+1995,Literature,Seamus Heaney
 1974,Peace,Seán MacBride
-1909,Literature,579
-1952,Physiology or Medicine,353
+1909,Literature,Selma Lagerlöf
+1952,Physiology or Medicine,Selman A. Waksman
 2012,Physics,Serge Haroche
 1959,Physiology or Medicine,Severo Ochoa
-1979,Physics,
+1979,Physics,Sheldon Glashow
 1994,Peace,Shimon Peres
 2012,Physiology or Medicine,Shinya Yamanaka
 2003,Peace,Shirin Ebadi
@@ -801,13 +800,13 @@ uncovered the life-world of the occupation",,Paris
 1989,Chemistry,Sidney Altman
 1928,Literature,Sigrid Undset
 1971,Economic Sciences,Simon Kuznets
-1984,Physics,https://masterdataapi.nobelprize.org/2/nobelPrize/phy/1984
-1965,Physics,84
-1930,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1930
+1984,Physics,Simon van der Meer
+1965,Physics,Sin-Itiro Tomonaga
+1930,Literature,Sinclair Lewis
 1945,Physiology or Medicine,Sir Alexander Fleming
 1979,Economic Sciences,Sir Arthur Lewis
 1925,Peace,Sir Austen Chamberlain
-1970,Physiology or Medicine,394
+1970,Physiology or Medicine,Sir Bernard Katz
 1930,Physics,Sir Chandrasekhara Venkata Raman
 1932,Physiology or Medicine,Sir Charles Sherrington
 1956,Chemistry,Sir Cyril Hinshelwood
@@ -827,54 +826,54 @@ uncovered the life-world of the occupation",,Paris
 2001,Physiology or Medicine,Sir Paul Nurse
 2019,Physiology or Medicine,Sir Peter J. Ratcliffe
 2003,Physiology or Medicine,Sir Peter Mansfield
-1947,Chemistry,207
-1904,Chemistry,163
+1947,Chemistry,Sir Robert Robinson
+1904,Chemistry,Sir William Ramsay
 1972,Chemistry,Stanford Moore
 1997,Physiology or Medicine,Stanley B. Prusiner
 1986,Physiology or Medicine,Stanley Cohen
 2014,Chemistry,Stefan W. Hell
 1997,Physics,Steven Chu
-1979,Physics,
+1979,Physics,Steven Weinberg
 1983,Physics,Subramanyan Chandrasekhar
-1901,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1901
+1901,Literature,Sully Prudhomme
 1982,Physiology or Medicine,Sune K. Bergström
 1987,Physiology or Medicine,Susumu Tonegawa
 1903,Chemistry,Svante Arrhenius
-2015,Literature,924
+2015,Literature,Svetlana Alexievich
 2002,Physiology or Medicine,Sydney Brenner
-1948,Literature,619
-1950,Physiology or Medicine,350
-2015,Physics,919
+1948,Literature,T.S. Eliot
+1950,Physiology or Medicine,Tadeus Reichstein
+2015,Physics,Takaaki Kajita
 2018,Physiology or Medicine,Tasuku Honjo
 2011,Peace,Tawakkol Karman
 1989,Peace,The 14th Dalai Lama 
 1926,Chemistry,The Svedberg
-1909,Physiology or Medicine,303
-1902,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1902
-2005,Physics,793
-1906,Peace,470
+1909,Physiology or Medicine,Theodor Kocher
+1902,Literature,Theodor Mommsen
+2005,Physics,Theodor W. Hänsch
+1906,Peace,Theodore Roosevelt
 1914,Chemistry,Theodore W. Richards
 1979,Economic Sciences,Theodore W. Schultz
 2009,Chemistry,Thomas A. Steitz
 2005,Economic Sciences,Thomas C. Schelling
-2013,Physiology or Medicine,886
+2013,Physiology or Medicine,Thomas C. Südhof
 1933,Physiology or Medicine,Thomas H. Morgan
 1954,Physiology or Medicine,Thomas H. Weller
 2011,Economic Sciences,Thomas J. Sargent
-1929,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1929
+1929,Literature,Thomas Mann
 1989,Chemistry,Thomas R. Cech
 2001,Physiology or Medicine,Tim Hunt
 1975,Economic Sciences,Tjalling C. Koopmans
-1911,Peace,https://masterdataapi.nobelprize.org/2/nobelPrize/pea/1911
+1911,Peace,Tobias Asser
 2015,Chemistry,Tomas Lindahl
-2011,Literature,
-1993,Literature,670
+2011,Literature,Tomas Tranströmer
+1993,Literature,Toni Morrison
 1981,Physiology or Medicine,Torsten N. Wiesel
 2008,Physics,Toshihide Maskawa
 1989,Economic Sciences,Trygve Haavelmo
 1957,Physics,Tsung-Dao Lee
 2015,Physiology or Medicine,Tu Youyou
-1970,Physiology or Medicine,395
+1970,Physiology or Medicine,Ulf von Euler
 2001,Peace,United Nations
 1965,Peace,United Nations Children's Fund
 1988,Peace,United Nations Peacekeeping Forces
@@ -882,11 +881,11 @@ uncovered the life-world of the occupation",,Paris
 1980,Physics,Val Fitch
 2009,Chemistry,Venkatraman Ramakrishnan
 1916,Literature,Verner von Heidenstam
-2002,Economic Sciences,760
-1977,Literature,653
+2002,Economic Sciences,Vernon L. Smith
+1977,Literature,Vicente Aleixandre
 1936,Physics,Victor F. Hess
-1912,Chemistry,172
-1955,Chemistry,218
+1912,Chemistry,Victor Grignard
+1955,Chemistry,Vincent du Vigneaud
 2003,Physics,Vitaly L. Ginzburg
 1975,Chemistry,Vladimir Prelog
 1980,Chemistry,Walter Gilbert
@@ -895,31 +894,31 @@ uncovered the life-world of the occupation",,Paris
 1998,Chemistry,Walter Kohn
 1954,Physics,Walther Bothe
 1920,Chemistry,Walther Nernst
-2004,Peace,783
+2004,Peace,Wangari Maathai
 1973,Economic Sciences,Wassily Leontief
 1946,Chemistry,Wendell M. Stanley
 1978,Physiology or Medicine,Werner Arber
 1956,Physiology or Medicine,Werner Forssmann
-1932,Physics,
+1932,Physics,Werner Heisenberg
 1901,Physics,Wilhelm Conrad Röntgen
 1909,Chemistry,Wilhelm Ostwald
 1911,Physics,Wilhelm Wien
-1960,Chemistry,
+1960,Chemistry,Willard F. Libby
 2009,Physics,Willard S. Boyle
 1924,Physiology or Medicine,Willem Einthoven
 1983,Physics,William A. Fowler
 1956,Physics,William B. Shockley
 1915,Physics,William Bragg
-1923,Literature,593
+1923,Literature,William Butler Yeats
 2015,Physiology or Medicine,William C. Campbell
 2018,Economic Sciences,William D. Nordhaus
 1997,Physics,William D. Phillips
 2014,Chemistry,William E. Moerner
-1949,Chemistry,209
+1949,Chemistry,William F. Giauque
 1990,Economic Sciences,William F. Sharpe
 1949,Literature,William Faulkner
 2019,Physiology or Medicine,William G. Kaelin Jr
-1983,Literature,https://masterdataapi.nobelprize.org/2/nobelPrize/lit/1983
+1983,Literature,William Golding
 1972,Chemistry,William H. Stein
 2001,Chemistry,William Knowles
 1976,Chemistry,William Lipscomb
@@ -929,14 +928,14 @@ uncovered the life-world of the occupation",,Paris
 1971,Peace,Willy Brandt
 1953,Literature,Winston Churchill
 1996,Literature,Wislawa Szymborska
-1924,Literature,594
+1924,Literature,Wladyslaw Reymont
 1986,Literature,Wole Soyinka
-2001,Physics,739
+2001,Physics,Wolfgang Ketterle
 1989,Physics,Wolfgang Paul
-1945,Physics,50
+1945,Physics,Wolfgang Pauli
 1919,Peace,Woodrow Wilson
 1994,Peace,Yasser Arafat
-1968,Literature,642
+1968,Literature,Yasunari Kawabata
 1994,Peace,Yitzhak Rabin
 2008,Physics,Yoichiro Nambu
 2016,Physiology or Medicine,Yoshinori Ohsumi
@@ -945,8 +944,8 @@ uncovered the life-world of the occupation",,Paris
 2000,Physics,Zhores Alferov
 1980,Chemistry,Frederick Sanger
 1944,Peace,International Committee of the Red Cross
-1972,Physics,66
+1972,Physics,John Bardeen
 1954,Chemistry,Linus Pauling
-1911,Chemistry,6
+1911,Chemistry,Marie Curie
 1981,Peace,Office of the United Nations High Commissioner for Refugees
 1963,Peace,International Committee of the Red Cross
